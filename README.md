@@ -4,6 +4,12 @@ Flask, web application/ python application
 
 MySQL
 
-Table format:
+Python socket
 
-IP_address      User_name      Message
+One table for sending, one table for receiving
+
+Table format: 
+
+|IP_address|      User_name|      Message|    Message_status| Message_time|
+
+|：----：|：----：|：-----：|：----：| :----:|
