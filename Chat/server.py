@@ -1,5 +1,5 @@
 import socket
-from database import *
+from Database.database import *
 
 localIP = "192.168.43.131"
 localPort = 20001
