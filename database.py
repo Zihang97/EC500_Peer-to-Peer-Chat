@@ -1,7 +1,7 @@
 import pymysql
 import time
 
-password = "150417jzh"
+password = "*****"
 db = pymysql.connect(host = "localhost", user = "root", password = password, database = "peer_to_peer_chat")
 cursor = db.cursor()
 
