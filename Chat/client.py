@@ -1,6 +1,6 @@
 import socket
 import sys
-from database.database import *
+from Database.database import *
 
 serverAddressPort = ("168.122.206.223", 20001)
 
